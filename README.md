@@ -10,7 +10,7 @@
 
 ---
 
-### 📡 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Ym8u6HB571o1vH3Ncl/giphy.gif" width="25"> RF & Wi-Fi Offensive Operations
+### 📡 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="35" /> RF & Wi-Fi Offensive Operations
 ESP32 ve harici modüllerle kablosuz ağların sınırlarını zorluyorum:
 - **Wi-Fi Deauthentication:** Hedef cihazları ağdan düşürme ve paket yakalama.
 - **Evil Twin (Sahte İkiz):** Sahte erişim noktaları oluşturarak trafik manipülasyonu.
@@ -19,14 +19,14 @@ ESP32 ve harici modüllerle kablosuz ağların sınırlarını zorluyorum:
 
 ---
 
-### 🛡️ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/jzHFPlw89eTqU/giphy.gif" width="25"> Siber Güvenlik ve Ofansif Operasyonlar
+### 🛡️ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="35" /> Siber Güvenlik ve Ofansif Operasyonlar
 - **Veritabanı Güvenliği:** SQL Injection analizleri ve veritabanı sızma (dumping) operasyonları.
 - **Defacing & Exploitation:** Web arayüz manipülasyonu ve sistem açıklarının sömürülmesi.
 - **Güvenlik Yaklaşımı:** Ofansif ve defansif siber güvenlik stratejileri.
 
 ---
 
-### 🤖 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/MT5UUV1d4CXE2A37dg/giphy.gif" width="25"> Robotik ve Elektronik Laboratuvarı
+### 🤖 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" /> Robotik ve Elektronik Laboratuvarı
 - **Mikrodenetleyiciler:** ESP-32S, Arduino Uno ve IoT Hacking.
 - **Hareket Sistemleri:** MG90S 360 & SG90 Servolar, 250 RPM DC Motorlar.
 - **Sensör Envanteri:** HC-SR04 Mesafe, Yağmur Sensörü, Mist Maker (Piezo).
