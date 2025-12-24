@@ -1,39 +1,50 @@
-# <p align="center">🛡️ Hi there, I'm Ubeyt! (Grey Hat Hacker & Robotics Pro)</p>
+# <p align="center">Ubeyt | Cyber Security Researcher & Robotics Specialist</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=15+Years+Old+Grey+Hat+Hacker;SQL+Injection+%26+Database+Dumping;Website+Defacing+Expert;Electronics+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Grey+Hat+Hacker;Cyber+Security+Specialist;SQL+Injection+%26+DB+Analysis;Defacing+%26+System+Exploitation;Robotics+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💀 Cyber Ops & Exploitation
-"I don't just find vulnerabilities, I leave my mark."
-- 🎯 **SQL Injection:** Specialized in bypassing filters and dumping sensitive databases.
-- 🖼️ **Defacing:** Skilled in taking control of web interfaces and leaving my signature.
-- 🔓 **Mass Exploitation:** Scanning and exploiting vulnerabilities across multiple targets.
-- 🌫️ **Grey Hat Mindset:** Acting on the edge of security, focused on impact and results.
+### 🛡️ Siber Güvenlik ve Ofansif Operasyonlar
+Sadece teoride değil, pratikte de sistemlerin sınırlarını zorluyorum.
+- **Veritabanı Güvenliği:** SQL Injection açıklarını manuel ve otomatize araçlarla analiz etme, veritabanı sızma operasyonları.
+- **Defacing & Exploitation:** Web arayüz manipülasyonu ve sistem açıklarının sömürülmesi üzerine aktif çalışmalar.
+- **Gri Şapka Yaklaşımı:** Güvenlik açıklarını tespit etme ve sistem zaafiyetlerini raporlama/test etme süreçlerinde uzmanlık.
 
 ---
 
-### 🤖 Robotics & Hardware Lab
-Mastering the physical world with a massive inventory:
-- **Controllers:** ESP-32S (IoT Exploits), Arduino Uno.
-- **Motion:** MG90S 360 & SG90 Servos, 250 RPM DC Motors for custom bots.
-- **Sensors:** RFID-RC522 (Cloning & Access Control), HC-SR04, Rain Sensors, Mist Maker.
-- **Display:** 4x20 I2C LCD, Multi 7-Segment displays for real-time data monitoring.
+### 🤖 Robotik ve Elektronik Laboratuvarı
+Donanım dünyasında geniş bir envanterle sistem geliştirme:
+- **Mikrodenetleyiciler:** ESP-32S, Arduino Uno ile IoT tabanlı sistemler.
+- **Robotik Hareket:** MG90S 360 & SG90 Servolar, 250 RPM Car Motors.
+- **Sensör Teknolojileri:** RFID-RC522, Ultrasonik Mesafe, Yağmur Sensörü, Mist Maker (Piezo).
+- **Envanter:** Geniş direnç, kapasitör ve potansiyometre (b1M, b250k vb.) koleksiyonu ile hassas devre tasarımları.
 
 ---
 
-### 📊 Hacker Stats (Real-time)
+### 📊 Sistem İstatistikleri
+
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KENDI_KULLANICI_ADIN&show_icons=true&theme=dark&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENDI_KULLANICI_ADIN&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Teknik Envanter
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Injection-Exploit-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/Defacing-Active-orange?style=for-the-badge" />
-  <img src="
+  <img src="https://img.shields.io/badge/Security-Grey_Hat-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber_Security-Specialist-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Injection-Exploit-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-Electronics-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🌍 Konum: Türkiye 🇹🇷
+> **"Information is power, but controlling it is everything."**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+</p>
