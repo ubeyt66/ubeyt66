@@ -9,7 +9,7 @@
 ### 🛡️ Siber Güvenlik ve Ofansif Operasyonlar
 - **Veritabanı Güvenliği:** SQL Injection analizleri ve veritabanı sızma (dumping) operasyonları.
 - **Defacing & Exploitation:** Web arayüz manipülasyonu ve sistem açıklarının sömürülmesi.
-- **Güvenlik Yaklaşımı:** Hem ofansif (Hacker) hem de defansif (Siber Güvenlik) bakış açısıyla sistem analizi.
+- **Güvenlik Yaklaşımı:** Ofansif ve defansif siber güvenlik stratejileri.
 
 ---
 
@@ -17,25 +17,24 @@
 - **Kontrolcüler:** ESP-32S ve Arduino Uno ile IoT tabanlı akıllı sistemler.
 - **Robotik Hareket:** MG90S 360 & SG90 Servolar, 250 RPM DC Motorlar.
 - **Sensör Envanteri:** RFID-RC522, HC-SR04 Mesafe, Yağmur Sensörü, Mist Maker (Piezo).
-- **Hassas Devreler:** b1M, b250k Potansiyometreler ve geniş direnç koleksiyonu ile özgün donanım tasarımları.
+- **Hassas Devreler:** b1M, b250k Potansiyometreler ve zengin direnç koleksiyonu.
 
 ---
 
-### 📊 Sistem İstatistikleri
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubeyt66&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Ubeyt Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeyt66&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
-
----
-
-### 🛠️ Teknik Envanter
+### 🛠️ Yetenekler & Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/Security-Grey_Hat-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cyber_Security-Specialist-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL_Injection-Exploit-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Robotics-Electronics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=kali-linux" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubeyt66&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
