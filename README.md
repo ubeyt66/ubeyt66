@@ -7,27 +7,25 @@
 ---
 
 ### 🛡️ Siber Güvenlik ve Ofansif Operasyonlar
-Sadece teoride değil, pratikte de sistemlerin sınırlarını zorluyorum.
-- **Veritabanı Güvenliği:** SQL Injection açıklarını manuel ve otomatize araçlarla analiz etme, veritabanı sızma operasyonları.
-- **Defacing & Exploitation:** Web arayüz manipülasyonu ve sistem açıklarının sömürülmesi üzerine aktif çalışmalar.
-- **Gri Şapka Yaklaşımı:** Güvenlik açıklarını tespit etme ve sistem zaafiyetlerini raporlama/test etme süreçlerinde uzmanlık.
+- **Veritabanı Güvenliği:** SQL Injection analizleri ve veritabanı sızma (dumping) operasyonları.
+- **Defacing & Exploitation:** Web arayüz manipülasyonu ve sistem açıklarının sömürülmesi.
+- **Güvenlik Yaklaşımı:** Hem ofansif (Hacker) hem de defansif (Siber Güvenlik) bakış açısıyla sistem analizi.
 
 ---
 
 ### 🤖 Robotik ve Elektronik Laboratuvarı
-Donanım dünyasında geniş bir envanterle sistem geliştirme:
-- **Mikrodenetleyiciler:** ESP-32S, Arduino Uno ile IoT tabanlı sistemler.
-- **Robotik Hareket:** MG90S 360 & SG90 Servolar, 250 RPM Car Motors.
-- **Sensör Teknolojileri:** RFID-RC522, Ultrasonik Mesafe, Yağmur Sensörü, Mist Maker (Piezo).
-- **Envanter:** Geniş direnç, kapasitör ve potansiyometre (b1M, b250k vb.) koleksiyonu ile hassas devre tasarımları.
+- **Kontrolcüler:** ESP-32S ve Arduino Uno ile IoT tabanlı akıllı sistemler.
+- **Robotik Hareket:** MG90S 360 & SG90 Servolar, 250 RPM DC Motorlar.
+- **Sensör Envanteri:** RFID-RC522, HC-SR04 Mesafe, Yağmur Sensörü, Mist Maker (Piezo).
+- **Hassas Devreler:** b1M, b250k Potansiyometreler ve geniş direnç koleksiyonu ile özgün donanım tasarımları.
 
 ---
 
 ### 📊 Sistem İstatistikleri
-
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubeyt66&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Ubeyt Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeyt66&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
 
 ---
