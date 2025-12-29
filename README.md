@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Ubeyt%2066&fontSize=70&animation=fadeIn" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Grey+Hat+Hacker+&+Researcher;SQL+Injection+%26+Database+Dumping;ESP32+Wi-Fi+Hacking+Expert;Website+Defacing+%26+Exploitation;Robotics+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Researcher;SQL+Injection+%26+Database+Dumping;ESP32+Wi-Fi+Hacking+Expert;Website+Defacing+%26+Exploitation;Robotics+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
