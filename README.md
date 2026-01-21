@@ -40,7 +40,7 @@ ESP32 ve harici modüllerle kablosuz ağların sınırlarını zorluyorum:
   <img src="https://img.shields.io/badge/Wi--Fi-Hacking-red?style=for-the-badge&logo=wi-fi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Injection-Exploit-red?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-Hacking-blue?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  
 </p>
 
 ---
